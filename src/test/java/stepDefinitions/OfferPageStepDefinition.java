@@ -57,7 +57,9 @@ public void user_serached_for_shortname_in_offer_page(String shortString) throws
 	System.out.println("i switch the branch to develop");
 	System.out.println(" i amde some code changes so sumit can carry forward the code from my changes");
 	System.out.println("for that i will push this changes in develop branch");
-
+	
+	
+	System.out.println("I am Smita and doing changes and pushing to develop branch and expecting sumit subod patty will take this");
 }
 
 public void switchToOffersPage() {
