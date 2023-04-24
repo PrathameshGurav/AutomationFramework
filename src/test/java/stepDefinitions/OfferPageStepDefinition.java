@@ -44,6 +44,13 @@ public void user_serached_for_shortname_in_offer_page(String shortString) throws
 	System.out.println("Prathamesh adding this line in offerpage stepdef ");
 	System.out.println("Greatwork by prathamesh ");
 	System.out.println("He is best automation test Engineer i ever seen ");
+	
+	
+	System.out.println("I am sumit and i am an architect , joined this project");
+	System.out.println("I am doing some major changes i automation framewok hence i will take out one branch from master called Developer branch");
+	System.out.println("Beacuse if i started changes direcr in master branch the prathanesh and smita will see some failure in there testcases");
+	System.out.println("There work will get impacted");
+	System.out.println("Hence i am doing changes in master branch abd later i will merge");
 
 }
 
