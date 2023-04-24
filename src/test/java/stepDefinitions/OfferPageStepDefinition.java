@@ -36,6 +36,9 @@ public void user_serached_for_shortname_in_offer_page(String shortString) throws
 	Thread.sleep(3000);
 	offrePageProductName=offersPage.getProductName();
 	System.out.println(offrePageProductName);
+	
+	System.out.println("This is for Git Practice ");
+	System.out.println("Smita added some changes in offer page stepdefinition in atutomation framework ");
 
 }
 

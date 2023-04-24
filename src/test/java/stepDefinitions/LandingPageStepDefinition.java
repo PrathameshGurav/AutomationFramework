@@ -36,6 +36,8 @@ public class LandingPageStepDefinition  {
 public void usre_is_on_green_kart_landing_page() {
 	
 	Assert.assertTrue(landingPage.getTitleLandiningPage().contains("GreenKart"));
+	System.out.println("This is for Git Practice ");
+	System.out.println("Smita added some changes in landing page stepdefinition in atutomation framework ");
     
 }
 @When("Usre serach with shortname {string} and extracyted actual name of product from homepage")
