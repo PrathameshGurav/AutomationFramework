@@ -39,6 +39,11 @@ public void user_serached_for_shortname_in_offer_page(String shortString) throws
 	
 	System.out.println("This is for Git Practice ");
 	System.out.println("Smita added some changes in offer page stepdefinition in atutomation framework ");
+	
+	System.out.println("Prathamesh pulled the above code and adding some more code in this class as bellow");
+	System.out.println("Prathamesh adding this line in offerpage stepdef ");
+	System.out.println("Greatwork by prathamesh ");
+	System.out.println("He is best automation test Engineer i ever seen ");
 
 }
 

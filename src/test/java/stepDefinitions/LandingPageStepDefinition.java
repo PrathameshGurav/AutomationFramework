@@ -38,6 +38,11 @@ public void usre_is_on_green_kart_landing_page() {
 	Assert.assertTrue(landingPage.getTitleLandiningPage().contains("GreenKart"));
 	System.out.println("This is for Git Practice ");
 	System.out.println("Smita added some changes in landing page stepdefinition in atutomation framework ");
+	
+	System.out.println("Prathamesh pulled the above code and adding some more code in this class as bellow");
+	System.out.println("Prathamesh adding this line in landingpage stepdef ");
+	System.out.println("Greatwork by prathamesh ");
+	System.out.println("He is best automation test Engineer i ever seen ");
     
 }
 @When("Usre serach with shortname {string} and extracyted actual name of product from homepage")
