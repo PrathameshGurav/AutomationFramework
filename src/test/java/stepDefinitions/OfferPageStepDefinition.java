@@ -51,6 +51,12 @@ public void user_serached_for_shortname_in_offer_page(String shortString) throws
 	System.out.println("Beacuse if i started changes direcr in master branch the prathanesh and smita will see some failure in there testcases");
 	System.out.println("There work will get impacted");
 	System.out.println("Hence i am doing changes in master branch abd later i will merge");
+	
+	System.out.println("I am Subodh and i am second  architect , joined this project with Sumit");
+	System.out.println("I am doing some major changes i automation framewok with Sumit , i have pulled first cloned prject from master branch and then pulled latest changes done by sumit in develop branch");
+	System.out.println("i switch the branch to develop");
+	System.out.println(" i amde some code changes so sumit can carry forward the code from my changes");
+	System.out.println("for that i will push this changes in develop branch");
 
 }
 
